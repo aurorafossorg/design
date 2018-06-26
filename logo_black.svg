@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg1436"
+   width="263.633"
+   height="254.4267"
+   viewBox="0 0 263.633 254.4267"
+   sodipodi:docname="logo_black.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:export-filename="/mnt/stuff1/ProgrammingWorkspace/NativeProjects/Git/Gitlab/aurorafossorg/core/design/logo.svg.png"
+   inkscape:export-xdpi="186.44101"
+   inkscape:export-ydpi="186.44101">
+  <metadata
+     id="metadata1442">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1440">
+    <linearGradient
+       id="linearGradient15814"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop15812" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient15808"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop15806" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient893">
+      <stop
+         style="stop-color:#f134ff;stop-opacity:1"
+         offset="0"
+         id="stop889" />
+      <stop
+         id="stop897"
+         offset="0.5"
+         style="stop-color:#15b94a;stop-opacity:1" />
+      <stop
+         style="stop-color:#28589b;stop-opacity:1"
+         offset="1"
+         id="stop891" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient893"
+       id="linearGradient895"
+       x1="54.318707"
+       y1="37.321018"
+       x2="215.42726"
+       y2="216.16628"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4.0646648,-8.1293307)" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1063"
+     id="namedview1438"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="51.717081"
+     inkscape:cy="155.96982"
+     inkscape:window-x="1920"
+     inkscape:window-y="17"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1436"
+     inkscape:snap-bbox="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-text-baseline="false" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:49.85000992;font-family:'Autumn in November';-inkscape-font-specification:'Autumn in November';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.54100001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     d="m 179.99219,0.00289452 c -1.31273,-0.01758 -2.65728,0.045 -4.03125,0.185547 l -0.29297,0.0293 C 166.05012,1.2015635 158.51116,5.0457025 153.04883,11.752898 c -5.15009,5.881895 -7.57779,13.172469 -7.28321,21.869141 0.1495,5.339791 1.28021,10.577757 3.39258,15.716797 2.11237,5.13899 5.06664,9.795572 8.86524,13.96875 3.10936,3.251991 7.3091,6.493277 12.59765,9.720697 5.48484,3.20734 12.52618,4.94545 21.12695,5.8711 1.80671,0.21187 3.50536,0.33543 5.09571,0.37109 1.76655,0.007 2.73965,-0.0777 4.33,-0.042 -2.82033,10.97913 -4.79257,20.24728 -8.18817,31.592257 -3.3956,11.34499 -7.50745,24.59001 -11.07152,35.0376 -2.90482,8.95653 -6.17366,18.03578 -9.80469,27.23438 -7.74619,19.36548 -13.91827,32.07329 -18.51757,38.125 -4.5993,6.05171 -7.98741,7.01946 -10.16602,2.90429 -1.93655,-3.87309 -2.78504,-11.86142 -2.54297,-23.96484 0.48413,-12.34549 1.81552,-27.23123 3.99414,-44.66016 1.21034,-8.71446 2.29931,-16.46231 3.26758,-23.24023 0.96827,-7.01999 1.93798,-12.94965 2.90625,-17.79102 0.96827,-5.809637 2.05723,-10.892757 3.26758,-15.249997 1.4524,-7.26205 -2e-4,-12.83003 -4.35742,-16.70312 -4.35724,-4.11517 -9.56157,-6.777938 -15.61329,-7.98828 -6.05171,-1.452411 -11.86211,-1.452411 -17.42968,0 -5.56758,1.210342 -8.71325,3.50948 -9.43946,6.89843 l -6.90039,26.86914 C 92.347802,87.398853 82.666392,79.652943 71.531252,75.053643 60.396102,70.454343 49.502574,69.607813 38.851563,72.512633 27.232277,75.417453 17.79135,83.042143 10.529297,95.387633 3.509312,107.97519 0,124.31548 0,144.40716 c 0,12.82963 1.088962,23.2383 3.267578,31.22656 2.178616,7.98826 4.720179,14.28156 7.625,18.88086 3.14689,4.5993 6.534989,7.74693 10.166016,9.44141 3.631027,1.69448 6.899866,2.66223 9.804687,2.90429 7.74619,0 14.766767,-1.69502 21.060547,-5.08398 6.29378,-3.38895 11.981017,-7.62359 17.064454,-12.70703 5.08344,-5.32551 9.56245,-11.0147 13.43555,-17.06641 4.11516,-6.29378 7.62447,-12.10418 10.52929,-17.42968 -1.93654,16.70271 -2.66186,31.4692 -2.17773,44.29882 0.72621,19.84962 4.23552,34.37367 10.529298,43.57227 5.56757,7.98826 12.95179,11.98242 22.15039,11.98242 7.98826,0 15.24931,-2.9052 21.78515,-8.71484 6.53585,-5.80965 12.46746,-12.82827 17.79297,-21.0586 5.32551,-7.98826 9.80257,-16.21901 13.4336,-24.6914 3.87309,-8.71446 6.8995,-15.85625 9.07812,-21.42383 3.87309,-9.44067 7.2612,-18.76039 10.16602,-27.95899 3.92152,-11.77055 7.92472,-24.98689 11.11218,-37.10305 3.18747,-12.11615 6.17792,-22.866957 7.54364,-34.479427 11.2082,-0.94817 20.55777,-3.62 29.28558,-7.48783 7.6104,-3.15851 13.62754,-7.345856 18.05274,-12.558589 2.15462,-2.203764 2.50371,-4.620555 1.04492,-7.248047 -0.74947,-1.510022 -1.94178,-2.478026 -3.57227,-2.90625 -1.43422,-0.448301 -2.89481,-0.201617 -4.38476,0.744141 -0.76506,0.276598 -1.50221,0.849408 -2.20703,1.714844 -0.88102,1.081808 -2.23045,2.411577 -4.05274,3.986328 -1.84235,1.378474 -4.27292,2.8155 -7.29297,4.314453 -3.02005,1.498941 -6.64155,2.961637 -10.85937,4.384765 -4.23791,1.226845 -9.29902,2.139838 -15.1875,2.742188 l -0.58985,0.06055 c 0.72697,-8.404494 0.51295,-16.317742 -0.64257,-23.736328 -0.87895,-6.653534 -2.17669,-12.568881 -3.89649,-17.748047 -1.7198,-5.179175 -4.05653,-9.599031 -7.00976,-13.263672 C 196.86967,4.1240395 189.18125,0.12592952 179.99219,0.00287052 Z m 4.92578,17.48828248 c 6.86449,0.02804 12.77605,5.495612 13.52148,12.798828 0.67241,6.661877 -3.1963,12.860375 -9.2793,14.86914 l 10.24219,23.154298 c -7.5578,-0.65382 -19.52641,-2.872686 -24.29297,-6.015626 l 8.26172,-16.59375 c -6.26455,-0.841123 -11.18406,-6.091 -11.86328,-12.660156 -0.79897,-7.7911 4.58816,-14.725179 12.02734,-15.484375 0.46486,-0.04754 0.92518,-0.07023 1.38282,-0.06836 z M 70.929692,94.577113 c 1.79282,-0.034 3.68652,0.35685 5.68359,1.17383 5.32551,1.93655 11.13591,8.108637 17.42969,18.517577 0,0.24207 0.24243,0.60571 0.72656,1.08984 -3.38896,9.1986 -7.1407,17.91421 -11.25586,26.14453 -4.11517,8.23033 -8.59418,15.7338 -13.43555,22.51172 -4.115161,7.01998 -7.382047,11.25657 -9.802731,12.70899 -2.420685,1.45241 -4.358136,0.96756 -5.810547,-1.45313 -1.452411,-2.42069 -2.42016,-6.29363 -2.904297,-11.61914 -0.484137,-5.56757 -0.726563,-11.86088 -0.726563,-18.88086 10e-7,-10.65101 1.088963,-20.09194 3.267579,-28.32226 2.178616,-8.4724 5.083817,-14.52523 8.714843,-18.156257 2.420685,-2.42068 5.125246,-3.6581 8.113286,-3.71484 z"
+     id="path877"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccsccscccccccccccsccsscscccccccssccccscccccccccccccscscccccccccccccsccscscccc" />
+  <circle
+     style="opacity:0.68599997;fill:#f134ff;fill-opacity:1;stroke:#000000;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     id="path2596"
+     cx="-34.017578"
+     cy="-32.661167"
+     r="0" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 212.05795,82.075813 c 0,0 0,0 0,0"
+     style="font-size:medium;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+     id="path610" />
+  <style
+     type="text/css"
+     class="stylish"
+     id="stylish-4">/* AGENT_SHEET
+/*
+/* Archlinux and ArchAssault Dark Remix v1.7.2
+/* Author: prurigro (https://userstyles.org/users/262769)
+/* Based on: Arch Linux Dark 2013 (pdq)
+*/
+
+@namespace url(http://www.w3.org/1999/xhtml);
+
+/* archlinux.org */</style>
+  <style
+     type="text/css"
+     class="stylish"
+     id="stylish-7">@namespace url(http://www.w3.org/1999/xhtml);
+
+
+
+/*[theme_drive]*/</style>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Autumn in November';-inkscape-font-specification:'Autumn in November';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="46.982422"
+     y="110.83883"
+     id="text851"><tspan
+       sodipodi:role="line"
+       id="tspan849"
+       x="46.982422"
+       y="141.95033" /></text>
+  <g
+     aria-label="a"
+     style="font-style:normal;font-weight:normal;font-size:363.10266113px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89115965"
+     id="text855"
+     transform="translate(-34.017578,-32.661167)" />
+</svg>
